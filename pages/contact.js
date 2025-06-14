@@ -1,8 +1,8 @@
 export default function Contact() {
   return (
-    <div style={{ padding: '2rem', textAlign: 'center' }}>
-      <h1>Contact</h1>
-      <p>Email: support@aifakedetector.com</p>
+    <div style={{ textAlign: 'center', padding: '2rem' }}>
+      <h1>Contact Us</h1>
+      <p>Email: support@example.com</p>
     </div>
   );
 }

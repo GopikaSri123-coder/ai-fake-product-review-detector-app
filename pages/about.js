@@ -1,8 +1,8 @@
 export default function About() {
   return (
-    <div style={{ padding: '2rem', textAlign: 'center' }}>
-      <h1>About</h1>
-      <p>This app was created to detect fake product reviews using AI.</p>
+    <div style={{ textAlign: 'center', padding: '2rem' }}>
+      <h1>About Page</h1>
+      <p>This app was created to detect fake reviews using AI.</p>
     </div>
   );
 }
