@@ -4,8 +4,9 @@ import Link from 'next/link';
 import React from 'react';
 
 export default function Home() {
-  return (
+  return 
     <div style={styles.container}>
+        <h1>AI Fake Product Review Detector</h1>
       <h1 style={styles.heading}>🕵️‍♀️ AI Fake Product Review Detector</h1>
       <p style={styles.text}>
         Welcome! This tool uses powerful AI to detect whether product reviews are genuine or fake.
@@ -51,3 +52,4 @@ const styles = {
     textDecoration: 'underline',
   },
 };
+<h1>AI-Based Product Review Detector 🚀</h1>
